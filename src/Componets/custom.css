@@ -1,0 +1,69 @@
+/* 
+.makeStyles-root-34 {
+    background-color:red;
+} */
+
+
+
+
+.body{
+    background-color:black;
+}
+
+.rhap_container, rhap_container*:focus{
+    outline:none;
+}
+.rhap_main-controls ,rhap_main-controls*:focus{
+ outline:none;
+}
+
+.rhap_container{
+    background-color:#181818 !important;
+}
+.rhap_time, rhap_main-controls{
+    color:white !important;
+}
+.rhap_progress-filled{
+    background-color:white;
+}
+.rhap_download-progress{
+    background-color:#5e5353;
+}
+.hovereffect{
+    text-decoration: none;
+    color:grey;
+}
+.hovereffect:hover{
+    text-decoration:underline;
+    color:lightgray;
+    cursor:pointer
+}
+
+.mycard{
+    background-color:#2f352f55;
+}
+.mycard:hover{
+    background-color:#00000055;
+    cursor:pointer;
+    transform: scale(1.05,1.05);
+}
+
+.search-top{
+    background-color:#2f352f55;
+}
+.search-top:hover{
+    background-color:#00000055;
+    cursor:pointer;
+}
+
+.search-item:hover{
+    background-color:#00000055;
+    cursor:pointer;
+}
+  .scrollbar-color::-webkit-scrollbar {
+    width: 10px;
+  }
+  .scrollbar-color::-webkit-scrollbar-thumb {
+    background-color:rgb(68, 68, 68);
+  }
+
